@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Daniel P. Doyle</Authors>
+    <Product>Explicit Mapper</Product>
+    <Copyright>2020 Daniel P. Doyle</Copyright>
+    <RepositoryUrl>https://github.com/TheDanielDoyle/ExplicitMapper</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
